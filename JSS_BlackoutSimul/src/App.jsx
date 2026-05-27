@@ -1350,7 +1350,7 @@ export default function App() {
         }}
       >
         {[
-          ["house","Aceh Smart House"],
+          ["house","Lombok Smart House"],
           ["papua","Papua Microgrid"],
         ].map(([id,label]) => (
           <button
